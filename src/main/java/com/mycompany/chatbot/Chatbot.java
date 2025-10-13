@@ -8,6 +8,24 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author RC_Student_Lab
+ *  * REFERENCES: 
+ * The Independent Institute of Education. 2025. PROG5121 Programming 1A PoE Brief. 
+ * Available: https://iilearn.iie.ac.za/ [Accessed: 15 March 2025].
+ * 
+ * The Independent Institute of Education. 2025. IIE Harvard Referencing Guide.
+ * Available: https://libguides.iie.ac.za/referencing/harvard [Accessed: 15 March 2025].
+ * 
+ * OpenAI. 2025. ChatGPT (March 25 version) [Large language model]. 
+ * Assisted with regular expression for cell phone validation and code structure.
+ * Available: https://chat.openai.com/ [Accessed: 15 March 2025].
+ * 
+ * NetBeans. 2025. NetBeans IDE [Computer software].
+ * Used for Java development and unit testing.
+ * Available: https://netbeans.apache.org/ [Accessed: 15 March 2025].
+ * 
+ * JUnit. 2025. JUnit 4 [Testing framework].
+ * Used for unit testing as required by the PoE brief.
+ * Available: https://junit.org/junit4/ [Accessed: 15 March 2025].
  */
 public class Chatbot {
      private static Login currentUser;
